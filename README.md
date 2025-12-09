@@ -44,6 +44,11 @@ FireAlarmProject/
 
 ---
 
+## 📹 Demo Video  
+👉 https://www.youtube.com/shorts/zvIpvsSzm64  
+
+---
+
 ## 3. Required Components
 
 ### 3.1 Hardware
@@ -271,5 +276,7 @@ Once you have the basic system working, you can extend it by:
 B.Sc. in IoT & Robotics Engineering
 University of Frontier Technology, Bangladesh
 Passionate about **IoT, Robotics, AI and ML**
+**Email:** shahriar0002@std.uftb.ac.bd  
+**LinkedIn:** https://www.linkedin.com/in/shahriar-alom-masud  
 
 > Feel free to open an Issue or Pull Request if you find a bug or want to improve this guide.
