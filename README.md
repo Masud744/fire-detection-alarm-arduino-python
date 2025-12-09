@@ -1,4 +1,5 @@
-# Arduino Fire Detection System with Laptop MP3 Alarm
+# Fire Detection & Alarm System (Arduino + Python MP3 Alert)
+
 
 This project is a simple but practical fire detection system that uses an **Arduino + flame sensor** to detect fire and a **Python script on a laptop** to play an MP3 alarm sound. An optional **I2C LCD (16×2)** can be added to show messages such as “System Ready”, “FIRE DETECTED!”, and “No Fire”.
 
@@ -264,12 +265,11 @@ Once you have the basic system working, you can extend it by:
 
 ---
 
-## 12. Credits
+## 👨‍💻 12. Author
 
-This project is inspired by a simple Arduino + Python integration example where: fileciteturn1file0  
+**Shahriar Alom Masud**  
+B.Sc. in IoT & Robotics Engineering
+University of Frontier Technology, Bangladesh
+Passionate about **IoT, Robotics, AI and ML**
 
-- Arduino detects fire with a flame sensor  
-- LCD (optional) shows `"FIRE DETECTED!"` / `"No Fire"`  
-- Python on the laptop plays an MP3 alarm when fire is detected  
-
-The manual (`manual.pdf`) in this repository contains a concise step-by-step PDF version of this guide.
+> Feel free to open an Issue or Pull Request if you find a bug or want to improve this guide.
