@@ -276,6 +276,7 @@ Once you have the basic system working, you can extend it by:
 B.Sc. in IoT & Robotics Engineering
 University of Frontier Technology, Bangladesh
 Passionate about **IoT, Robotics, AI and ML**
+
 **Email:** shahriar0002@std.uftb.ac.bd  
 **LinkedIn:** https://www.linkedin.com/in/shahriar-alom-masud  
 
